@@ -2,12 +2,11 @@ import './index.css'
 import React from 'react'
 import ReactDom from 'react-dom'
 
-
-const tag = <strong>Olá React!!!</strong>
+import Primeiro from './components/basicos/Primeiro'
 
 ReactDom.render(
     <div>
-        { tag }
+        <Primeiro></Primeiro>
     </div>,
     document.getElementById('root')
     )
