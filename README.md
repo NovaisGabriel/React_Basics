@@ -3,6 +3,13 @@
 <p>Repositório destinado ao estudo de conceitos básicos do React.
     O conteúdo do repositório foi gerado a partir de curso online.</p>
 
+<p>Links Úteis</p>
+<p><a href="https://pt-br.reactjs.org/">https://pt-br.reactjs.org/</a></p>
+<p><a href="https://redux.js.org/">https://redux.js.org/</a></p>
+<p><a href="https://www.mongodb.com/">https://www.mongodb.com/</a></p>
+<p><a href="https://www.oracle.com/br/index.html">https://www.oracle.com/br/index.html</a></p>
+
+
 <h3>Algumas instruções</h3>
 
 <p><b>1) Install react inside project folder:</b></p>
